@@ -1,6 +1,6 @@
-# Hi there, I'm [Your Name] 👋
+# Hi there, I'm Ackeem  👋
 
-I'm a passionate [Your Role/Title] based in [Your Location]. My interests span from [Your Interests/Hobbies] to [Your Technical Interests].
+I'm a passionate Software Engineer based in Jamaica. My interests span from hiking, and swimming to drowning myself in source code :smile:.
 
 ## 🔧 Technologies & Tools
 
@@ -14,7 +14,7 @@ I'm a passionate [Your Role/Title] based in [Your Location]. My interests span f
 
 ## 📈 GitHub Stats
 
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/your-username)
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skeamy876&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/Skeamy876)
 
 ## 📫 Let's Connect
 
