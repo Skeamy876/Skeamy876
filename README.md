@@ -1,10 +1,26 @@
-- 👋 Hi, I’m @Skeamy876- Ackeem Mclennon
-- 👀 I’m a Software Engineering
-- 🌱 I’m currently learning Python and Java libraries and starting to take on backend development
-- 💞️ I’m looking to collaborate on any type of project where it involves front and backend developement of any application
-- 📫 How to reach me at awinstonmclennon@gmail.com
+# Hi there, I'm [Your Name] 👋
 
-<!---
-Skeamy876/Skeamy876 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+I'm a passionate [Your Role/Title] based in [Your Location]. My interests span from [Your Interests/Hobbies] to [Your Technical Interests].
+
+## 🔧 Technologies & Tools
+
+![Your Favorite Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
+![Your Favorite Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
+![Your Favorite Tech 3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+
+## 🌱 Currently Learning
+
+![Current Learning](https://img.shields.io/badge/-NewTech-333333?style=flat)
+
+## 📈 GitHub Stats
+
+[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=your-username&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/your-username)
+
+## 📫 Let's Connect
+
+- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
+- [Twitter](https://twitter.com/your-twitter-profile/)
+- [Portfolio](https://your-portfolio.com/)
+
+Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 😊
+
