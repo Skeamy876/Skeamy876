@@ -5,9 +5,13 @@ I am extremely passionate about using building applications for various solution
 
 ## 🔧 Technologies & Tools
 -Java -Spring Boot
+
 -Python - Django, LangChain, PLY
+
 -JavaScript - React.js, React Native
+
 -SQL- PostgresSql
+
 -NoSQL - MongoDB
 
 ## 🌱 Currently Learning
