@@ -1,20 +1,19 @@
 # Hi there, I'm Ackeem  👋
 
-I'm a passionate Software Engineer based in Jamaica. My interests span from hiking, and swimming to drowning myself in source code :smile:.
+I'm a passionate Software Engineer based in Jamaica. My interests span from hiking, and swimming to drowning myself in source code :smile: . 
+I am extremely passionate about using building applications for various solutions, especially as it regards real-world problems.
 
 ## 🔧 Technologies & Tools
-
-![Your Favorite Tech 1](https://img.shields.io/badge/-Tech1-333333?style=flat&logo=tech1)
-![Your Favorite Tech 2](https://img.shields.io/badge/-Tech2-333333?style=flat&logo=tech2)
-![Your Favorite Tech 3](https://img.shields.io/badge/-Tech3-333333?style=flat&logo=tech3)
+-Java -Spring Boot
+-Python - Django, LangChain, PLY
+-JavaScript - React.js, React Native
+-SQL- PostgresSql
+-NoSQL - MongoDB
 
 ## 🌱 Currently Learning
-
-![Current Learning](https://img.shields.io/badge/-NewTech-333333?style=flat)
-
-## 📈 GitHub Stats
-
-[![Your GitHub Stats](https://github-readme-stats.vercel.app/api?username=Skeamy876&show_icons=true&count_private=true&hide=contribs,issues&theme=radical)](https://github.com/Skeamy876)
+-TypeScript
+- LangChain
+- Natural language Processing
 
 ## 📫 Let's Connect
 
