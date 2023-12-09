@@ -4,15 +4,15 @@ I'm a passionate Software Engineer based in Jamaica. My interests span from hiki
 I am extremely passionate about using building applications for various solutions, especially as it regards real-world problems.
 
 ## 🔧 Technologies & Tools
--Java -Spring Boot
+- Java -Spring Boot
 
--Python - Django, LangChain, PLY
+- Python - Django, LangChain, PLY
 
--JavaScript - React.js, React Native
+- JavaScript - React.js, React Native
 
--SQL- PostgresSql
+- SQL- PostgresSql
 
--NoSQL - MongoDB
+- NoSQL - MongoDB
 
 ## 🌱 Currently Learning
 -TypeScript
