@@ -18,9 +18,9 @@ I'm a passionate Software Engineer based in Jamaica. My interests span from hiki
 
 ## 📫 Let's Connect
 
-- [LinkedIn](https://www.linkedin.com/in/your-linkedin-profile/)
-- [Twitter](https://twitter.com/your-twitter-profile/)
-- [Portfolio](https://your-portfolio.com/)
+- [LinkedIn]([https://www.linkedin.com/](https://www.linkedin.com/in/ackeem-mclennon-828283171/))
+- [Twitter]([https://twitter.com/your-twitter-profile/](https://twitter.com/AckeemInTech))
+- [Portfolio](https://www.ackeemtechja.codes/)
 
 Feel free to explore my repositories and don't hesitate to reach out for collaboration or just to say hi! 😊
 
