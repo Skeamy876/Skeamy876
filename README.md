@@ -8,7 +8,7 @@ I am extremely passionate about using building applications for various solution
 
 - Python - Django, LangChain, PLY
 
-- JavaScript - React.js, React Native
+- JavaScript - Angular, React Native
 
 - SQL- PostgresSql
 
@@ -17,7 +17,7 @@ I am extremely passionate about using building applications for various solution
 ## 🌱 Currently Learning
 -TypeScript
 - LangChain
-- Natural language Processing
+- Angular
 
 ## 📫 Let's Connect
 
