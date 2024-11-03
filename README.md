@@ -5,10 +5,10 @@ I am extremely passionate about using building applications for various solution
 
 ## 🔧 Technologies & Tools
 - Java -Spring Boot
-
-- Python - Django, LangChain, PLY
-
-- JavaScript - Angular, React Native
+  
+- Kotlin - Jetpack Compose
+  
+- TypeScript - Angular
 
 - SQL- PostgresSql
 
@@ -16,7 +16,9 @@ I am extremely passionate about using building applications for various solution
 
 ## 🌱 Currently Learning
 -TypeScript
-- LangChain
+- Android developement jetpack Compose
+- Compose Multiplatform
+- Kotlin
 - Angular
 
 ## 📫 Let's Connect
